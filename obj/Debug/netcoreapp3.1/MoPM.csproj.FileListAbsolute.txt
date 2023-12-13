@@ -1,0 +1,14 @@
+F:\ProjectsUnivers\MoPM\bin\Debug\netcoreapp3.1\MoPM.exe
+F:\ProjectsUnivers\MoPM\bin\Debug\netcoreapp3.1\MoPM.deps.json
+F:\ProjectsUnivers\MoPM\bin\Debug\netcoreapp3.1\MoPM.runtimeconfig.json
+F:\ProjectsUnivers\MoPM\bin\Debug\netcoreapp3.1\MoPM.runtimeconfig.dev.json
+F:\ProjectsUnivers\MoPM\bin\Debug\netcoreapp3.1\MoPM.dll
+F:\ProjectsUnivers\MoPM\bin\Debug\netcoreapp3.1\MoPM.pdb
+F:\ProjectsUnivers\MoPM\obj\Debug\netcoreapp3.1\MoPM.csproj.AssemblyReference.cache
+F:\ProjectsUnivers\MoPM\obj\Debug\netcoreapp3.1\MoPM.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjectsUnivers\MoPM\obj\Debug\netcoreapp3.1\MoPM.AssemblyInfoInputs.cache
+F:\ProjectsUnivers\MoPM\obj\Debug\netcoreapp3.1\MoPM.AssemblyInfo.cs
+F:\ProjectsUnivers\MoPM\obj\Debug\netcoreapp3.1\MoPM.csproj.CoreCompileInputs.cache
+F:\ProjectsUnivers\MoPM\obj\Debug\netcoreapp3.1\MoPM.dll
+F:\ProjectsUnivers\MoPM\obj\Debug\netcoreapp3.1\MoPM.pdb
+F:\ProjectsUnivers\MoPM\obj\Debug\netcoreapp3.1\MoPM.genruntimeconfig.cache
